@@ -11,7 +11,7 @@
 	<groupId>com.esp</groupId>
 	<artifactId>manilla</artifactId>
 	<version>0.0.1</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>manilla</name>
 	<description>Backend para un ecomerce de manillas</description>
 	<properties>
@@ -30,6 +30,8 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
+
+
 
 		<dependency>
 			<groupId>org.projectlombok</groupId>
